@@ -4,19 +4,21 @@ Proyek ini adalah implementasi model Convolutional Neural Network (CNN) untuk me
 
 ## Struktur Proyek
 
+```
 submission
 ├───tfjs_model
-| ├───group1-shard1of1.bin
-| └───model.json
+│   ├───group1-shard1of1.bin
+│   └───model.json
 ├───tflite
-| ├───model.tflite
-| └───label.txt
+│   ├───model.tflite
+│   └───label.txt
 ├───saved_model
-| ├───saved_model.pb
-| └───variables
+│   ├───saved_model.pb
+│   └───variables
 ├───notebook.ipynb
 ├───README.md
 └───requirements.txt
+```
 
 ## Dataset
 
